@@ -1,11 +1,13 @@
-MOS visualization tool
+MOS Visualization Tool
 ----------------------
 
 .. image:: http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat
     :target: http://www.astropy.org
     :alt: Powered by Astropy Badge
 
-MOSViz is a quick-look analysis and visualization tool for multi-object spectroscopy (MOS).
+MOSViz is a quick-look analysis and visualization tool for multi-object spectroscopy (MOS). It is built on top of the "glue" visualization tool.
+
+.. image:: /docs/images/MOSViz_viewer.png
 
 
 License
